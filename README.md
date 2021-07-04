@@ -1,3 +1,9 @@
+# this app has two versions
+-class components + functional components -> avaiable at master branch
+
+-only functional components -> avaiable at hooks branch
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
