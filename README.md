@@ -1,7 +1,7 @@
 # this app has two versions
--class components + functional components -> avaiable at master branch
+-class components + functional components -> available at master branch
 
--only functional components -> avaiable at hooks branch
+-only functional components -> available at hooks branch
 
 
 # Getting Started with Create React App
